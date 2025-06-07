@@ -1,0 +1,4 @@
+{
+  "servers": ["your-fallback-server.com:9080"],
+  "version": "1.0.2"
+}
