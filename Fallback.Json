@@ -1,7 +1,5 @@
 {
-name	"Fallback"
-version_local	
-0	"localhost:9080"
-version_roma	
-0	"141.98.112.5:9080"
+	"name": "Fallback",
+	"version_local":["localhost:9080"],
+	"version_roma":["141.98.112.5:9080"]
 }
