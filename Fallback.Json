@@ -1,5 +1,5 @@
 {
-	"name": "Fallback",
+	"name": "Fallback_Server",
 	"version_local":["localhost:9080"],
 	"version_roma":["141.98.112.5:9080"]
 }
